@@ -1,32 +1,34 @@
 # to-do-list
-# To-Do App
+# To-Do List Webpage
 
-A simple and responsive To-Do List application that allows users to manage tasks, mark tasks as complete, and delete tasks. This project is built using HTML, CSS, and JavaScript.
+A simple and user-friendly **To-Do List webpage** that allows users to manage their tasks efficiently. The webpage is built using **HTML**, **CSS**, and **JavaScript**, and it lets users add, mark, and delete tasks. The tasks are stored in the browser's local storage, so they persist even after refreshing or closing the webpage.
 
 ## Table of Contents
 1. [Technologies](#technologies)
 2. [Features](#features)
 3. [Setup](#setup)
 4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+5. [Project Structure](#project-structure)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ## Technologies
-- **HTML5**: For structuring the web page.
-- **CSS3**: For styling the application and making it responsive.
-- **JavaScript**: For handling the app's functionality like adding, deleting, and marking tasks as complete.
+- **HTML5**: For structuring the webpage.
+- **CSS3**: For styling and layout.
+- **JavaScript (ES6)**: For interactive functionality (task addition, deletion, completion).
+- **Local Storage**: To store tasks and keep them even after refreshing the page.
 
 ## Features
-- Add tasks to the list.
-- Mark tasks as complete by clicking on them.
-- Delete tasks from the list.
-- All tasks are saved in the local storage, so the list persists even after refreshing the page.
+- **Add Tasks**: Users can type a task in an input field and click "Add Task" to insert it into the to-do list.
+- **Mark Tasks as Complete**: Clicking on a task marks it as complete, with a strikethrough style.
+- **Delete Tasks**: Users can delete tasks from the list by clicking a delete button/icon.
+- **Local Storage**: The webpage stores tasks in the browser's local storage, so the tasks remain even if the page is closed or refreshed.
 
 ## Setup
 
-### Running Locally
-To run the project locally on your machine:
+### Viewing the Webpage Locally
+To view the To-Do List webpage on your local machine:
 
-1. Clone the repository:
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/your-username/todo-list-webpage.git
