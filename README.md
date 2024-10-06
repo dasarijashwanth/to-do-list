@@ -31,4 +31,4 @@ To view the To-Do List webpage on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/todo-list-webpage.git
+   git clone https://github.com/dasarijashwanth/to-do-list.git
